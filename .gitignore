@@ -22,11 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-**/nbproject/private/
+Licznik/nbproject/private/
 **/nbproject/Makefile-*.mk
 **/nbproject/Package-*.bash
-build/
-nbbuild/
-dist/
-nbdist/
+Licznik/build/
+Licznik/nbbuild/
+Licznik/dist/
+Licznik/nbdist/
 .nb-gradle/
